@@ -14,4 +14,3 @@ Welcome to my project portfolio! This repo links to my key projects in Software 
 
 - **[Message Mini Chatbot](https://github.com/Mehnaz300/Message-mini-project.git)**  
   A solo project that uses the ChatGPT API to send and receive conversational messages in a minimal UI.
-- 
