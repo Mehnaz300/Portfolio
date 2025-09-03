@@ -10,7 +10,4 @@ Welcome to my project portfolio! This repo links to my key projects in Software 
 
 - **[Jefferson Elementary Dashboard](https://github.com/jvrieger/launch25-swe-week1-team3.git)**  
   Built a school dashboard app during a week-long sprint, with features like event scheduling and student tracking.  
-  _Team project; focused on UI design and calendar functionality._
-
-- **[Message Mini Chatbot](https://github.com/Mehnaz300/Message-mini-project.git)**  
-  A solo project that uses the ChatGPT API to send and receive conversational messages in a minimal UI.
+  _Team project; focused on UI design and calendar functionality.
